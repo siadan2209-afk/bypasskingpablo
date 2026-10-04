@@ -1,0 +1,9 @@
+{
+  "name": "kingpablobypass",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KingPabloBypass - URL resolver/redirector (By @KingPablo_77)",
+  "engines": {
+    "node": "22.x"
+  }
+}
